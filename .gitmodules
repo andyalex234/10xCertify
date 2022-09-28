@@ -1,0 +1,6 @@
+[submodule "10xCertify-frontend"]
+	path = 10xCertify-frontend
+	url = git@github.com:andyalex234/10xCertify-frontend.git
+[submodule "10xCertify-backend"]
+	path = 10xCertify-backend
+	url = git@github.com:andyalex234/10xCertify-backend.git
